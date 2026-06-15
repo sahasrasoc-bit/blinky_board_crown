@@ -11,7 +11,7 @@ Blinky board created to look like a crown; the jems are represented by led light
 --
 <img width="1015" height="528" alt="Screenshot 2026-06-15 113614" src="https://github.com/user-attachments/assets/f7cc532e-691d-49be-bc79-dc0a4675d422" />
 
---
+
 
 
 
@@ -19,7 +19,7 @@ Blinky board created to look like a crown; the jems are represented by led light
 --
 <img width="642" height="469" alt="image" src="https://github.com/user-attachments/assets/370f87c9-d94a-4064-b411-abb9dfa271a6" />
 
---
+
 
 
 
@@ -27,7 +27,7 @@ Blinky board created to look like a crown; the jems are represented by led light
 --
 <img width="1068" height="602" alt="image" src="https://github.com/user-attachments/assets/1b535c26-b0f2-4f14-9152-04f52d696aa2" />
 
---
+
 
 
 *Front and Back of built PCB*
@@ -37,7 +37,7 @@ Blinky board created to look like a crown; the jems are represented by led light
 
 <img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/35f827c2-e585-4b7b-8bcc-3808c7ec95c3" />
 
---
+
 
 -------------------------------
 **BOM - Bill of Materials**
