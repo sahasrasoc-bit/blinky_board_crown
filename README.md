@@ -47,4 +47,3 @@ starter kit
 
 **PCB Board	- -	$5.30	- JLCPCB**
 https://cart.jlcpcb.com/quote?stencilLayer=2&stencilWidth=100&stencilLength=100&stencilCounts=5&plateType=1&spm=Jlcpcb.Homepage.1010
--------------------------------
