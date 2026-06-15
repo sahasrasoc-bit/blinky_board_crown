@@ -45,6 +45,6 @@ Blinky board created to look like a crown; the jems are represented by led light
 Blinky Board Kit - $10.00	-	Hack Club
 starter kit
 
-PCB Board	- -	$5.30	- JLCPCB
+**PCB Board	- -	$5.30	- JLCPCB**
 https://cart.jlcpcb.com/quote?stencilLayer=2&stencilWidth=100&stencilLength=100&stencilCounts=5&plateType=1&spm=Jlcpcb.Homepage.1010
 -------------------------------
